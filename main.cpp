@@ -15,7 +15,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
    int howmany;
-    cout << "Hello" << endl;
+    //cout << "Hello" << endl;
     cin >> howmany;
     while(howmany-- > 0)
          cout << "Hello" << endl;
